@@ -27,7 +27,7 @@ Tối Ưu Hiệu Suất:
  Trải Nghiệm Người Dùng:
 - Giao Diện Thân Thiện: Xây dựng một giao diện người dùng đơn giản, dễ sử dụng, và dễ hiểu.
 - Tương Tác Người Dùng: Sử dụng các yếu tố tương tác như thông báo đa hướng, tìm kiếm theo dõi và gợi ý để cải thiện trải nghiệm người dùng.
-- 
+
 Hỗ Trợ Đa Nền Tảng và Thiết Bị:
 - Responsive Design: Xây dựng giao diện web có thể hiển thị tốt trên cả máy tính, điện thoại di động và tablet.
 -Ứng Dụng Di Động: Phát triển ứng dụng di động cho cả hệ điều hành Android và iOS để cung cấp trải nghiệm tốt trên các thiết bị di động.
