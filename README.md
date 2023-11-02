@@ -8,9 +8,9 @@
 
 <h2>Giới thiệu nhóm:</h2>
 <h3>- Nhóm 6 gồm 3 thành viên với các vai trò:</h3>
-+ Đậu Đăng Huy: Developer
-+ Nguyễn Tấn Lợi: Product Owner
-+ Phan Thanh Vinh: Scrum Master
+<p>+ Đậu Đăng Huy: Developer</p>
+<p>+ Nguyễn Tấn Lợi: Product Owner</p>
+<p>+ Phan Thanh Vinh: Scrum Master</p>
 
 <h2>Giới thiệu công nghệ sử dụng:</h2>
 <p>- Hệ thống quản lý thư viện sử dụng công nghệ hiện đại bao gồm mô hình MVC (Model-View-Controller), Entity Framework và SQL Server Management Studio (SSMS) để cung cấp một trải nghiệm quản lý sách mượn linh hoạt và hiệu quả. Mô hình MVC giúp chia thành ba thành phần chính: Model, nơi lưu trữ dữ liệu sách, độc giả và thao tác với cơ sở dữ liệu; View, giao diện người dùng thân thiện để tìm kiếm và xem thông tin sách; và Controller, điều hướng các yêu cầu và tương tác với Model để truy xuất dữ liệu.</p>
