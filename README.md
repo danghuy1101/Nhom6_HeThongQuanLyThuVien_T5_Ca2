@@ -47,3 +47,5 @@
 <p>- Thống Kê: Hiển thị thông tin thống kê về tình trạng sách và hoạt động mượn sách.</p>
 
 <h2>Hình ảnh trang web:</h2>
+![Trang chủ](file:///C:/Users/TikMihl/Pictures/Screenshot%202023-11-08%20222623.png)
+
