@@ -19,7 +19,7 @@
 
 <p>- Tổng hợp, việc sử dụng mô hình MVC, Entity Framework và SQL Management trong hệ thống quản lý thư viện không chỉ tối ưu hóa quy trình quản lý thông tin sách và độc giả, mà còn đảm bảo tính linh hoạt, dễ bảo trì và mở rộng của hệ thống, tạo điều kiện thuận lợi cho việc cung cấp dịch vụ thư viện đáng tin cậy và hiệu quả.</p>
 
-<h2>Hướng phát triển và những nội dung làm được:</h2>
+<h2>Hướng phát triển:</h2>
 <h3>Tối Ưu Hiệu Suất:</h3>
 <p>-Cơ sở Dữ Liệu Hiệu Quả: Tối ưu hóa cấu trúc cơ sở dữ liệu, sử dụng chỉ các truy vấn cần thiết để giảm thiểu thời gian truy vấn và tăng tốc độ xử lý dữ liệu.</p>
 <p>-Tối ưu mã hóa và Ảnh Hưởng Giao Diện Người Dùng: Giảm bớt việc tải trang và tối ưu hóa các hình ảnh để cải thiện tốc độ tải trang.</p>
