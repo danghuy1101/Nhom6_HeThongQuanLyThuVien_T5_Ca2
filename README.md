@@ -47,9 +47,6 @@
 <p>- Thống Kê: Hiển thị thông tin thống kê về tình trạng sách và hoạt động mượn sách.</p>
 
 <h2>Hình ảnh trang web:</h2>
-![Trang chủ](https://github.com/danghuy1101/Nhom6_HeThongQuanLyThuVien_T5_Ca2/assets/129248539/1f939402-bdcd-40f1-b70a-7639ca387548)
-![Trang chủ](https://user-images.githubusercontent.com/129248539/281589873-a0d7ae86-a5aa-447a-927f-e94e64ba672f.png)
-![Trang chủ](https://github.com/danghuy1101/Nhom6_HeThongQuanLyThuVien_T5_Ca2/assets/129248539/1f939402-bdcd-40f1-b70a-7639ca387548)
-![Trang chủ](https://github.com/danghuy1101/Nhom6_HeThongQuanLyThuVien_T5_Ca2/assets/129248539/1f939402-bdcd-40f1-b70a-7639ca387548)
+<img src="https://github.com/danghuy1101/Nhom6_HeThongQuanLyThuVien_T5_Ca2/assets/129248539/1f939402-bdcd-40f1-b70a-7639ca387548" href="Trang chu"/>
 
 
