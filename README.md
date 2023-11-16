@@ -1,4 +1,5 @@
 # Nhom6_HeThongQuanLyThuVien_T5_Ca2
+<img src="[https://user-images.githubusercontent.com/129248539/281589882-6ae92c92-4e16-484f-9bf4-92c5c5e2fe91.png](https://assets.website-files.com/604a97c70aee09eed25ce991/61897a35583a9b51db018d3e_MartinPublicSeating-97560-Importance-School-Library-blogbanner1.jpg)"/>
 <h2>Giới thiệu đề tài:</h2>
 <p>- Hệ thống quản lý thư viện không chỉ giới hạn ở việc tổ chức và lưu trữ sách một cách cẩn thận, mà còn là bước tiến quan trọng trong việc tối ưu hóa trải nghiệm của người đọc và quản lý tài chính của thư viện. Thông qua giao diện người dùng thân thiện, độc giả có thể dễ dàng tìm kiếm sách theo tiêu chí như tên tác giả, chủ đề, hoặc mã số sách. Hệ thống tự động cập nhật số lượng sách còn trong kho và thông báo khi sách được mượn hoặc trả. Điều này giúp đảm bảo rằng sách luôn sẵn sàng cho người đọc và giảm thiểu việc mất mát hoặc làm hỏng sách do việc quản lý không hiệu quả.</p>
 
