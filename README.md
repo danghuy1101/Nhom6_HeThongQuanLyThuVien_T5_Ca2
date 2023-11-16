@@ -6,7 +6,6 @@
 <p>- Ngoài ra, hệ thống quản lý thư viện còn theo dõi thông tin về người đọc, bao gồm tên, địa chỉ, thông tin liên hệ và lịch sử mượn sách. Khi người đọc mượn sách, hệ thống tự động ghi chép thông tin về sách đã mượn và ngày hạn trả. Hệ thống cũng có khả năng hiển thị số tiền mượn sách dựa trên quy định của thư viện và tính toán tự động phiếu nợ nếu sách bị trễ hạn. Điều này giúp thư viện duy trì sự minh bạch trong các giao dịch và giúp người đọc hiểu rõ về các khoản phí nếu có.</p>
 
 <p>- Hơn nữa, hệ thống quản lý thư viện đáp ứng nhu cầu của cả thư viện nhỏ và lớn, giúp họ tiết kiệm thời gian và công sức trong việc quản lý sách và thông tin độc giả. Bằng cách này, nó không chỉ tạo điều kiện thuận lợi cho người đọc, mà còn giúp thư viện hoạt động một cách hiệu quả và chuyên nghiệp.</p>
-<img src="https://phamthongnhat.com/wp-content/uploads/2016/12/AAEAAQAAAAAAAAggAAAAJDRlN2U4YjQxLWRjOTktNGQxMC1iZTRmLWYzYjcyM2QxN2JiYQ.jpg"/>
 <h2>Giới thiệu nhóm:</h2>
 <h3>- Nhóm 6 gồm 3 thành viên với các vai trò:</h3>
 <p>+ Đậu Đăng Huy: Developer</p>
